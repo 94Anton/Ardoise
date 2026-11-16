@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- viewport-fit=cover : l'appli occupe tout l'écran de l'iPhone (encoche comprise) ;
+         les marges de sécurité sont gérées en CSS avec env(safe-area-inset-*). -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Ardoise</title>
+    <meta name="description" content="Suivi personnel de consommation d'alcool. Les données restent sur ce téléphone." />
+
+    <!-- Couleur de la barre du navigateur, selon le mode clair ou sombre du téléphone -->
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#eef0ee" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#171c1f" />
+
+    <!-- Réglages iOS pour l'appli installée sur l'écran d'accueil -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Ardoise" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+  <body>
+    <div id="racine"></div>
+    <noscript>Ardoise a besoin de JavaScript pour fonctionner.</noscript>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

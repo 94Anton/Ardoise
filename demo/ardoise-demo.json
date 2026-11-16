@@ -1,0 +1,3668 @@
+{
+ "format": "ardoise-sauvegarde",
+ "version": 1,
+ "exporteLe": "2026-11-15T19:27:27.309Z",
+ "tables": {
+  "categories": [
+   {
+    "id": 1,
+    "nom": "Bière",
+    "couleur": "#dd8a1c",
+    "alcoolisee": true
+   },
+   {
+    "id": 2,
+    "nom": "Vin rouge",
+    "couleur": "#b8405a",
+    "alcoolisee": true
+   },
+   {
+    "id": 3,
+    "nom": "Vin blanc",
+    "couleur": "#a3a23a",
+    "alcoolisee": true
+   },
+   {
+    "id": 4,
+    "nom": "Vin rosé",
+    "couleur": "#e07a9c",
+    "alcoolisee": true
+   },
+   {
+    "id": 5,
+    "nom": "Champagne et mousseux",
+    "couleur": "#bfa56a",
+    "alcoolisee": true
+   },
+   {
+    "id": 6,
+    "nom": "Cidre",
+    "couleur": "#7fae3a",
+    "alcoolisee": true
+   },
+   {
+    "id": 7,
+    "nom": "Whisky",
+    "couleur": "#b5651d",
+    "alcoolisee": true
+   },
+   {
+    "id": 8,
+    "nom": "Rhum",
+    "couleur": "#8a5a3c",
+    "alcoolisee": true
+   },
+   {
+    "id": 9,
+    "nom": "Vodka",
+    "couleur": "#6aa8de",
+    "alcoolisee": true
+   },
+   {
+    "id": 10,
+    "nom": "Gin",
+    "couleur": "#2f9e86",
+    "alcoolisee": true
+   },
+   {
+    "id": 11,
+    "nom": "Tequila",
+    "couleur": "#5b6fd6",
+    "alcoolisee": true
+   },
+   {
+    "id": 12,
+    "nom": "Liqueur",
+    "couleur": "#9a5fd0",
+    "alcoolisee": true
+   },
+   {
+    "id": 13,
+    "nom": "Anisé",
+    "couleur": "#d9c23a",
+    "alcoolisee": true
+   },
+   {
+    "id": 14,
+    "nom": "Autre spiritueux",
+    "couleur": "#7d8a96",
+    "alcoolisee": true
+   },
+   {
+    "id": 15,
+    "nom": "Diluants (sans alcool)",
+    "couleur": "#a9b0aa",
+    "alcoolisee": false
+   }
+  ],
+  "boissons": [
+   {
+    "id": 1,
+    "nom": "Leffe Blonde",
+    "categorieId": 1,
+    "degre": 6.6,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": true,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 2,
+    "nom": "Heineken",
+    "categorieId": 1,
+    "degre": 5,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 3,
+    "nom": "1664",
+    "categorieId": 1,
+    "degre": 5.5,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 4,
+    "nom": "Guinness Draught",
+    "categorieId": 1,
+    "degre": 4.2,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 5,
+    "nom": "Côtes-du-Rhône rouge",
+    "categorieId": 2,
+    "degre": 13.5,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 6,
+    "nom": "Chardonnay",
+    "categorieId": 3,
+    "degre": 13,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 7,
+    "nom": "Champagne brut",
+    "categorieId": 5,
+    "degre": 12,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 8,
+    "nom": "Prosecco",
+    "categorieId": 5,
+    "degre": 11,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 9,
+    "nom": "Ricard",
+    "categorieId": 13,
+    "degre": 45,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": true,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 10,
+    "nom": "Havana Club 3 ans",
+    "categorieId": 8,
+    "degre": 40,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 11,
+    "nom": "Jack Daniel's",
+    "categorieId": 7,
+    "degre": 40,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 12,
+    "nom": "Aperol",
+    "categorieId": 12,
+    "degre": 11,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 13,
+    "nom": "Jägermeister",
+    "categorieId": 12,
+    "degre": 35,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 14,
+    "nom": "Eau gazeuse",
+    "categorieId": 15,
+    "degre": 0,
+    "kcalParL": 0,
+    "sucreGParL": 0,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 15,
+    "nom": "Sirop de sucre de canne",
+    "categorieId": 15,
+    "degre": 0,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   },
+   {
+    "id": 16,
+    "nom": "Jus de citron vert",
+    "categorieId": 15,
+    "degre": 0,
+    "kcalParL": null,
+    "sucreGParL": null,
+    "favori": false,
+    "notes": "",
+    "archive": false
+   }
+  ],
+  "contenants": [
+   {
+    "id": 1,
+    "nom": "Pinte",
+    "volumeML": 500,
+    "predefini": true
+   },
+   {
+    "id": 2,
+    "nom": "Demi",
+    "volumeML": 250,
+    "predefini": true
+   },
+   {
+    "id": 3,
+    "nom": "Bouteille ou canette",
+    "volumeML": 330,
+    "predefini": true
+   },
+   {
+    "id": 4,
+    "nom": "Grande canette",
+    "volumeML": 500,
+    "predefini": true
+   },
+   {
+    "id": 5,
+    "nom": "Verre de vin",
+    "volumeML": 125,
+    "predefini": true
+   },
+   {
+    "id": 6,
+    "nom": "Flûte",
+    "volumeML": 100,
+    "predefini": true
+   },
+   {
+    "id": 7,
+    "nom": "Shot",
+    "volumeML": 40,
+    "predefini": true
+   },
+   {
+    "id": 8,
+    "nom": "Bouteille de vin",
+    "volumeML": 750,
+    "predefini": true
+   },
+   {
+    "id": 9,
+    "nom": "Dose",
+    "volumeML": 20,
+    "predefini": false
+   }
+  ],
+  "cocktails": [
+   {
+    "id": 1,
+    "nom": "Mojito",
+    "favori": false,
+    "archive": false,
+    "ingredients": [
+     {
+      "boissonId": 10,
+      "volumeML": 40
+     },
+     {
+      "boissonId": 15,
+      "volumeML": 20
+     },
+     {
+      "boissonId": 16,
+      "volumeML": 20
+     },
+     {
+      "boissonId": 14,
+      "volumeML": 80
+     }
+    ]
+   },
+   {
+    "id": 2,
+    "nom": "Spritz",
+    "favori": false,
+    "archive": false,
+    "ingredients": [
+     {
+      "boissonId": 12,
+      "volumeML": 60
+     },
+     {
+      "boissonId": 8,
+      "volumeML": 90
+     },
+     {
+      "boissonId": 14,
+      "volumeML": 30
+     }
+    ]
+   }
+  ],
+  "consommations": [
+   {
+    "id": 1,
+    "horodatage": 1788462720000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 1,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 2,
+    "horodatage": 1788467640000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 1,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 3,
+    "horodatage": 1788469620000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 1,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 4,
+    "horodatage": 1789151820000,
+    "type": "boisson",
+    "refId": 9,
+    "contenantId": 9,
+    "volumeML": 20,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 2,
+    "snapshot": {
+     "nom": "Ricard",
+     "volumeML": 20,
+     "degre": 45,
+     "gAlcool": 7.2,
+     "kcal": 50.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 9,
+       "categorieId": 13,
+       "nom": "Ricard",
+       "volumeML": 20,
+       "degre": 45,
+       "gAlcool": 7.2,
+       "kcal": 50.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 5,
+    "horodatage": 1789152720000,
+    "type": "boisson",
+    "refId": 6,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": null,
+    "snapshot": {
+     "nom": "Chardonnay",
+     "volumeML": 125,
+     "degre": 13,
+     "gAlcool": 13,
+     "kcal": 91,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 6,
+       "categorieId": 3,
+       "nom": "Chardonnay",
+       "volumeML": 125,
+       "degre": 13,
+       "gAlcool": 13,
+       "kcal": 91,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 6,
+    "horodatage": 1789155480000,
+    "type": "boisson",
+    "refId": 9,
+    "contenantId": 9,
+    "volumeML": 20,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 2,
+    "snapshot": {
+     "nom": "Ricard",
+     "volumeML": 20,
+     "degre": 45,
+     "gAlcool": 7.2,
+     "kcal": 50.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 9,
+       "categorieId": 13,
+       "nom": "Ricard",
+       "volumeML": 20,
+       "degre": 45,
+       "gAlcool": 7.2,
+       "kcal": 50.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 7,
+    "horodatage": 1789156860000,
+    "type": "boisson",
+    "refId": 9,
+    "contenantId": 9,
+    "volumeML": 20,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 2,
+    "snapshot": {
+     "nom": "Ricard",
+     "volumeML": 20,
+     "degre": 45,
+     "gAlcool": 7.2,
+     "kcal": 50.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 9,
+       "categorieId": 13,
+       "nom": "Ricard",
+       "volumeML": 20,
+       "degre": 45,
+       "gAlcool": 7.2,
+       "kcal": 50.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 8,
+    "horodatage": 1789159380000,
+    "type": "boisson",
+    "refId": 6,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 2,
+    "snapshot": {
+     "nom": "Chardonnay",
+     "volumeML": 125,
+     "degre": 13,
+     "gAlcool": 13,
+     "kcal": 91,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 6,
+       "categorieId": 3,
+       "nom": "Chardonnay",
+       "volumeML": 125,
+       "degre": 13,
+       "gAlcool": 13,
+       "kcal": 91,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 9,
+    "horodatage": 1789161900000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 2,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 330,
+     "degre": 5,
+     "gAlcool": 13.200000000000001,
+     "kcal": 92.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 330,
+       "degre": 5,
+       "gAlcool": 13.200000000000001,
+       "kcal": 92.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 10,
+    "horodatage": 1789164780000,
+    "type": "boisson",
+    "refId": 6,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 2,
+    "snapshot": {
+     "nom": "Chardonnay",
+     "volumeML": 125,
+     "degre": 13,
+     "gAlcool": 13,
+     "kcal": 91,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 6,
+       "categorieId": 3,
+       "nom": "Chardonnay",
+       "volumeML": 125,
+       "degre": 13,
+       "gAlcool": 13,
+       "kcal": 91,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 11,
+    "horodatage": 1789166400000,
+    "type": "boisson",
+    "refId": 5,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 2,
+    "snapshot": {
+     "nom": "Côtes-du-Rhône rouge",
+     "volumeML": 125,
+     "degre": 13.5,
+     "gAlcool": 13.5,
+     "kcal": 94.5,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 5,
+       "categorieId": 2,
+       "nom": "Côtes-du-Rhône rouge",
+       "volumeML": 125,
+       "degre": 13.5,
+       "gAlcool": 13.5,
+       "kcal": 94.5,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 12,
+    "horodatage": 1789242600000,
+    "type": "boisson",
+    "refId": 7,
+    "contenantId": 6,
+    "volumeML": 100,
+    "quantite": 1,
+    "prixEuros": 9,
+    "soireeId": 3,
+    "snapshot": {
+     "nom": "Champagne brut",
+     "volumeML": 100,
+     "degre": 12,
+     "gAlcool": 9.600000000000001,
+     "kcal": 67.20000000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 7,
+       "categorieId": 5,
+       "nom": "Champagne brut",
+       "volumeML": 100,
+       "degre": 12,
+       "gAlcool": 9.600000000000001,
+       "kcal": 67.20000000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 13,
+    "horodatage": 1789243800000,
+    "type": "cocktail",
+    "refId": 2,
+    "contenantId": null,
+    "volumeML": 180,
+    "quantite": 1,
+    "prixEuros": 8,
+    "soireeId": 3,
+    "snapshot": {
+     "nom": "Spritz",
+     "volumeML": 180,
+     "degre": 9.166666666666666,
+     "gAlcool": 13.200000000000001,
+     "kcal": 92.4,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 12,
+       "categorieId": 12,
+       "nom": "Aperol",
+       "volumeML": 60,
+       "degre": 11,
+       "gAlcool": 5.28,
+       "kcal": 36.96,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 8,
+       "categorieId": 5,
+       "nom": "Prosecco",
+       "volumeML": 90,
+       "degre": 11,
+       "gAlcool": 7.920000000000001,
+       "kcal": 55.440000000000005,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 30,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 14,
+    "horodatage": 1789246800000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 3,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 15,
+    "horodatage": 1789249440000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 3,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 16,
+    "horodatage": 1789251780000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 3,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 17,
+    "horodatage": 1789253940000,
+    "type": "boisson",
+    "refId": 7,
+    "contenantId": 6,
+    "volumeML": 100,
+    "quantite": 1,
+    "prixEuros": 9,
+    "soireeId": 3,
+    "snapshot": {
+     "nom": "Champagne brut",
+     "volumeML": 100,
+     "degre": 12,
+     "gAlcool": 9.600000000000001,
+     "kcal": 67.20000000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 7,
+       "categorieId": 5,
+       "nom": "Champagne brut",
+       "volumeML": 100,
+       "degre": 12,
+       "gAlcool": 9.600000000000001,
+       "kcal": 67.20000000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 18,
+    "horodatage": 1789846920000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 4,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 19,
+    "horodatage": 1789849380000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 2,
+    "volumeML": 250,
+    "quantite": 1,
+    "prixEuros": 4,
+    "soireeId": 4,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 250,
+     "degre": 5,
+     "gAlcool": 10,
+     "kcal": 70,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 250,
+       "degre": 5,
+       "gAlcool": 10,
+       "kcal": 70,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 20,
+    "horodatage": 1789851600000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7,
+    "soireeId": 4,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 500,
+     "degre": 5.5,
+     "gAlcool": 22,
+     "kcal": 154,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 500,
+       "degre": 5.5,
+       "gAlcool": 22,
+       "kcal": 154,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 21,
+    "horodatage": 1789852860000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7,
+    "soireeId": 4,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 500,
+     "degre": 5.5,
+     "gAlcool": 22,
+     "kcal": 154,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 500,
+       "degre": 5.5,
+       "gAlcool": 22,
+       "kcal": 154,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 22,
+    "horodatage": 1789855260000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 4,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 23,
+    "horodatage": 1789858140000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 2,
+    "volumeML": 250,
+    "quantite": 1,
+    "prixEuros": 4,
+    "soireeId": 4,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 250,
+     "degre": 5,
+     "gAlcool": 10,
+     "kcal": 70,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 250,
+       "degre": 5,
+       "gAlcool": 10,
+       "kcal": 70,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 24,
+    "horodatage": 1789860840000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 8,
+    "soireeId": 4,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 500,
+     "degre": 6.6,
+     "gAlcool": 26.400000000000002,
+     "kcal": 184.8,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 500,
+       "degre": 6.6,
+       "gAlcool": 26.400000000000002,
+       "kcal": 184.8,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 25,
+    "horodatage": 1790102580000,
+    "type": "boisson",
+    "refId": 5,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": null,
+    "snapshot": {
+     "nom": "Côtes-du-Rhône rouge",
+     "volumeML": 125,
+     "degre": 13.5,
+     "gAlcool": 13.5,
+     "kcal": 94.5,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 5,
+       "categorieId": 2,
+       "nom": "Côtes-du-Rhône rouge",
+       "volumeML": 125,
+       "degre": 13.5,
+       "gAlcool": 13.5,
+       "kcal": 94.5,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 26,
+    "horodatage": 1790363760000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 5,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 27,
+    "horodatage": 1790366760000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 5,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 28,
+    "horodatage": 1790369460000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7,
+    "soireeId": 5,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 500,
+     "degre": 5.5,
+     "gAlcool": 22,
+     "kcal": 154,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 500,
+       "degre": 5.5,
+       "gAlcool": 22,
+       "kcal": 154,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 29,
+    "horodatage": 1790373960000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 5,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 30,
+    "horodatage": 1790376600000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 8,
+    "soireeId": 5,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 500,
+     "degre": 6.6,
+     "gAlcool": 26.400000000000002,
+     "kcal": 184.8,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 500,
+       "degre": 6.6,
+       "gAlcool": 26.400000000000002,
+       "kcal": 184.8,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 31,
+    "horodatage": 1790616960000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": null,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 330,
+     "degre": 6.6,
+     "gAlcool": 17.424000000000003,
+     "kcal": 121.96800000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 330,
+       "degre": 6.6,
+       "gAlcool": 17.424000000000003,
+       "kcal": 121.96800000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 32,
+    "horodatage": 1790881080000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": null,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 330,
+     "degre": 6.6,
+     "gAlcool": 17.424000000000003,
+     "kcal": 121.96800000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 330,
+       "degre": 6.6,
+       "gAlcool": 17.424000000000003,
+       "kcal": 121.96800000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 33,
+    "horodatage": 1790964420000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7,
+    "soireeId": 6,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 500,
+     "degre": 5.5,
+     "gAlcool": 22,
+     "kcal": 154,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 500,
+       "degre": 5.5,
+       "gAlcool": 22,
+       "kcal": 154,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 34,
+    "horodatage": 1790971200000,
+    "type": "boisson",
+    "refId": 4,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7.5,
+    "soireeId": 6,
+    "snapshot": {
+     "nom": "Guinness Draught",
+     "volumeML": 500,
+     "degre": 4.2,
+     "gAlcool": 16.8,
+     "kcal": 117.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 4,
+       "categorieId": 1,
+       "nom": "Guinness Draught",
+       "volumeML": 500,
+       "degre": 4.2,
+       "gAlcool": 16.8,
+       "kcal": 117.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 35,
+    "horodatage": 1791055980000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 2,
+    "volumeML": 250,
+    "quantite": 1,
+    "prixEuros": 4,
+    "soireeId": 7,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 250,
+     "degre": 5,
+     "gAlcool": 10,
+     "kcal": 70,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 250,
+       "degre": 5,
+       "gAlcool": 10,
+       "kcal": 70,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 36,
+    "horodatage": 1791059820000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7,
+    "soireeId": 7,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 500,
+     "degre": 5.5,
+     "gAlcool": 22,
+     "kcal": 154,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 500,
+       "degre": 5.5,
+       "gAlcool": 22,
+       "kcal": 154,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 37,
+    "horodatage": 1791067560000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 8,
+    "soireeId": 7,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 500,
+     "degre": 6.6,
+     "gAlcool": 26.400000000000002,
+     "kcal": 184.8,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 500,
+       "degre": 6.6,
+       "gAlcool": 26.400000000000002,
+       "kcal": 184.8,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 38,
+    "horodatage": 1791221940000,
+    "type": "boisson",
+    "refId": 6,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": null,
+    "snapshot": {
+     "nom": "Chardonnay",
+     "volumeML": 125,
+     "degre": 13,
+     "gAlcool": 13,
+     "kcal": 91,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 6,
+       "categorieId": 3,
+       "nom": "Chardonnay",
+       "volumeML": 125,
+       "degre": 13,
+       "gAlcool": 13,
+       "kcal": 91,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 39,
+    "horodatage": 1791655200000,
+    "type": "boisson",
+    "refId": 11,
+    "contenantId": 7,
+    "volumeML": 40,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 8,
+    "snapshot": {
+     "nom": "Jack Daniel's",
+     "volumeML": 40,
+     "degre": 40,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 11,
+       "categorieId": 7,
+       "nom": "Jack Daniel's",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 40,
+    "horodatage": 1791657600000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 4,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 8,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 500,
+     "degre": 5,
+     "gAlcool": 20,
+     "kcal": 140,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 500,
+       "degre": 5,
+       "gAlcool": 20,
+       "kcal": 140,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 41,
+    "horodatage": 1791659040000,
+    "type": "boisson",
+    "refId": 5,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 8,
+    "snapshot": {
+     "nom": "Côtes-du-Rhône rouge",
+     "volumeML": 125,
+     "degre": 13.5,
+     "gAlcool": 13.5,
+     "kcal": 94.5,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 5,
+       "categorieId": 2,
+       "nom": "Côtes-du-Rhône rouge",
+       "volumeML": 125,
+       "degre": 13.5,
+       "gAlcool": 13.5,
+       "kcal": 94.5,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 42,
+    "horodatage": 1791661860000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 8,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 330,
+     "degre": 6.6,
+     "gAlcool": 17.424000000000003,
+     "kcal": 121.96800000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 330,
+       "degre": 6.6,
+       "gAlcool": 17.424000000000003,
+       "kcal": 121.96800000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 43,
+    "horodatage": 1791663480000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 8,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 330,
+     "degre": 6.6,
+     "gAlcool": 17.424000000000003,
+     "kcal": 121.96800000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 330,
+       "degre": 6.6,
+       "gAlcool": 17.424000000000003,
+       "kcal": 121.96800000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 44,
+    "horodatage": 1792262880000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 8,
+    "soireeId": 9,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 500,
+     "degre": 6.6,
+     "gAlcool": 26.400000000000002,
+     "kcal": 184.8,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 500,
+       "degre": 6.6,
+       "gAlcool": 26.400000000000002,
+       "kcal": 184.8,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 45,
+    "horodatage": 1792267800000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7,
+    "soireeId": 9,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 500,
+     "degre": 5.5,
+     "gAlcool": 22,
+     "kcal": 154,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 500,
+       "degre": 5.5,
+       "gAlcool": 22,
+       "kcal": 154,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 46,
+    "horodatage": 1792272840000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7,
+    "soireeId": 9,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 500,
+     "degre": 5.5,
+     "gAlcool": 22,
+     "kcal": 154,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 500,
+       "degre": 5.5,
+       "gAlcool": 22,
+       "kcal": 154,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 47,
+    "horodatage": 1792779180000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 2,
+    "volumeML": 250,
+    "quantite": 1,
+    "prixEuros": 4,
+    "soireeId": 10,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 250,
+     "degre": 5,
+     "gAlcool": 10,
+     "kcal": 70,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 250,
+       "degre": 5,
+       "gAlcool": 10,
+       "kcal": 70,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 48,
+    "horodatage": 1792782060000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 7,
+    "soireeId": 10,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 500,
+     "degre": 5.5,
+     "gAlcool": 22,
+     "kcal": 154,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 500,
+       "degre": 5.5,
+       "gAlcool": 22,
+       "kcal": 154,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 49,
+    "horodatage": 1792785540000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 8,
+    "soireeId": 10,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 500,
+     "degre": 6.6,
+     "gAlcool": 26.400000000000002,
+     "kcal": 184.8,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 500,
+       "degre": 6.6,
+       "gAlcool": 26.400000000000002,
+       "kcal": 184.8,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 50,
+    "horodatage": 1792866840000,
+    "type": "boisson",
+    "refId": 5,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 11,
+    "snapshot": {
+     "nom": "Côtes-du-Rhône rouge",
+     "volumeML": 125,
+     "degre": 13.5,
+     "gAlcool": 13.5,
+     "kcal": 94.5,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 5,
+       "categorieId": 2,
+       "nom": "Côtes-du-Rhône rouge",
+       "volumeML": 125,
+       "degre": 13.5,
+       "gAlcool": 13.5,
+       "kcal": 94.5,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 51,
+    "horodatage": 1792868040000,
+    "type": "boisson",
+    "refId": 13,
+    "contenantId": 7,
+    "volumeML": 40,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 11,
+    "snapshot": {
+     "nom": "Jägermeister",
+     "volumeML": 40,
+     "degre": 35,
+     "gAlcool": 11.200000000000001,
+     "kcal": 78.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 13,
+       "categorieId": 12,
+       "nom": "Jägermeister",
+       "volumeML": 40,
+       "degre": 35,
+       "gAlcool": 11.200000000000001,
+       "kcal": 78.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 52,
+    "horodatage": 1792869480000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 11,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 330,
+     "degre": 6.6,
+     "gAlcool": 17.424000000000003,
+     "kcal": 121.96800000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 330,
+       "degre": 6.6,
+       "gAlcool": 17.424000000000003,
+       "kcal": 121.96800000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 53,
+    "horodatage": 1792870800000,
+    "type": "boisson",
+    "refId": 13,
+    "contenantId": 7,
+    "volumeML": 40,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 11,
+    "snapshot": {
+     "nom": "Jägermeister",
+     "volumeML": 40,
+     "degre": 35,
+     "gAlcool": 11.200000000000001,
+     "kcal": 78.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 13,
+       "categorieId": 12,
+       "nom": "Jägermeister",
+       "volumeML": 40,
+       "degre": 35,
+       "gAlcool": 11.200000000000001,
+       "kcal": 78.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 54,
+    "horodatage": 1792873020000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 4,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 11,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 500,
+     "degre": 5,
+     "gAlcool": 20,
+     "kcal": 140,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 500,
+       "degre": 5,
+       "gAlcool": 20,
+       "kcal": 140,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 55,
+    "horodatage": 1792874460000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 11,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 330,
+     "degre": 6.6,
+     "gAlcool": 17.424000000000003,
+     "kcal": 121.96800000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 330,
+       "degre": 6.6,
+       "gAlcool": 17.424000000000003,
+       "kcal": 121.96800000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 56,
+    "horodatage": 1793132640000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": null,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 330,
+     "degre": 6.6,
+     "gAlcool": 17.424000000000003,
+     "kcal": 121.96800000000002,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 330,
+       "degre": 6.6,
+       "gAlcool": 17.424000000000003,
+       "kcal": 121.96800000000002,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 57,
+    "horodatage": 1793391420000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 12,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 330,
+     "degre": 5,
+     "gAlcool": 13.200000000000001,
+     "kcal": 92.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 330,
+       "degre": 5,
+       "gAlcool": 13.200000000000001,
+       "kcal": 92.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 58,
+    "horodatage": 1793392380000,
+    "type": "boisson",
+    "refId": 6,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 12,
+    "snapshot": {
+     "nom": "Chardonnay",
+     "volumeML": 125,
+     "degre": 13,
+     "gAlcool": 13,
+     "kcal": 91,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 6,
+       "categorieId": 3,
+       "nom": "Chardonnay",
+       "volumeML": 125,
+       "degre": 13,
+       "gAlcool": 13,
+       "kcal": 91,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 59,
+    "horodatage": 1793393820000,
+    "type": "boisson",
+    "refId": 9,
+    "contenantId": 9,
+    "volumeML": 20,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 12,
+    "snapshot": {
+     "nom": "Ricard",
+     "volumeML": 20,
+     "degre": 45,
+     "gAlcool": 7.2,
+     "kcal": 50.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 9,
+       "categorieId": 13,
+       "nom": "Ricard",
+       "volumeML": 20,
+       "degre": 45,
+       "gAlcool": 7.2,
+       "kcal": 50.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 60,
+    "horodatage": 1793395500000,
+    "type": "boisson",
+    "refId": 5,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 12,
+    "snapshot": {
+     "nom": "Côtes-du-Rhône rouge",
+     "volumeML": 125,
+     "degre": 13.5,
+     "gAlcool": 13.5,
+     "kcal": 94.5,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 5,
+       "categorieId": 2,
+       "nom": "Côtes-du-Rhône rouge",
+       "volumeML": 125,
+       "degre": 13.5,
+       "gAlcool": 13.5,
+       "kcal": 94.5,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 61,
+    "horodatage": 1793396640000,
+    "type": "boisson",
+    "refId": 9,
+    "contenantId": 9,
+    "volumeML": 20,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 12,
+    "snapshot": {
+     "nom": "Ricard",
+     "volumeML": 20,
+     "degre": 45,
+     "gAlcool": 7.2,
+     "kcal": 50.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 9,
+       "categorieId": 13,
+       "nom": "Ricard",
+       "volumeML": 20,
+       "degre": 45,
+       "gAlcool": 7.2,
+       "kcal": 50.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 62,
+    "horodatage": 1793398560000,
+    "type": "boisson",
+    "refId": 5,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 12,
+    "snapshot": {
+     "nom": "Côtes-du-Rhône rouge",
+     "volumeML": 125,
+     "degre": 13.5,
+     "gAlcool": 13.5,
+     "kcal": 94.5,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 5,
+       "categorieId": 2,
+       "nom": "Côtes-du-Rhône rouge",
+       "volumeML": 125,
+       "degre": 13.5,
+       "gAlcool": 13.5,
+       "kcal": 94.5,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 63,
+    "horodatage": 1793400060000,
+    "type": "boisson",
+    "refId": 6,
+    "contenantId": 5,
+    "volumeML": 125,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": 12,
+    "snapshot": {
+     "nom": "Chardonnay",
+     "volumeML": 125,
+     "degre": 13,
+     "gAlcool": 13,
+     "kcal": 91,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 6,
+       "categorieId": 3,
+       "nom": "Chardonnay",
+       "volumeML": 125,
+       "degre": 13,
+       "gAlcool": 13,
+       "kcal": 91,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 64,
+    "horodatage": 1793475720000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": null,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 330,
+     "degre": 5,
+     "gAlcool": 13.200000000000001,
+     "kcal": 92.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 330,
+       "degre": 5,
+       "gAlcool": 13.200000000000001,
+       "kcal": 92.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 65,
+    "horodatage": 1793650980000,
+    "type": "boisson",
+    "refId": 2,
+    "contenantId": 3,
+    "volumeML": 330,
+    "quantite": 1,
+    "prixEuros": null,
+    "soireeId": null,
+    "snapshot": {
+     "nom": "Heineken",
+     "volumeML": 330,
+     "degre": 5,
+     "gAlcool": 13.200000000000001,
+     "kcal": 92.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 2,
+       "categorieId": 1,
+       "nom": "Heineken",
+       "volumeML": 330,
+       "degre": 5,
+       "gAlcool": 13.200000000000001,
+       "kcal": 92.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 66,
+    "horodatage": 1794078480000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 13,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 67,
+    "horodatage": 1794080760000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 13,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 68,
+    "horodatage": 1794085800000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 13,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 69,
+    "horodatage": 1794090840000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 13,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 70,
+    "horodatage": 1794094140000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 13,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 71,
+    "horodatage": 1794602340000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 14,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 72,
+    "horodatage": 1794612720000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 14,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 73,
+    "horodatage": 1794686400000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 8,
+    "soireeId": 15,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 500,
+     "degre": 6.6,
+     "gAlcool": 26.400000000000002,
+     "kcal": 184.8,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 500,
+       "degre": 6.6,
+       "gAlcool": 26.400000000000002,
+       "kcal": 184.8,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 74,
+    "horodatage": 1794689400000,
+    "type": "boisson",
+    "refId": 1,
+    "contenantId": 1,
+    "volumeML": 500,
+    "quantite": 1,
+    "prixEuros": 8,
+    "soireeId": 15,
+    "snapshot": {
+     "nom": "Leffe Blonde",
+     "volumeML": 500,
+     "degre": 6.6,
+     "gAlcool": 26.400000000000002,
+     "kcal": 184.8,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 1,
+       "categorieId": 1,
+       "nom": "Leffe Blonde",
+       "volumeML": 500,
+       "degre": 6.6,
+       "gAlcool": 26.400000000000002,
+       "kcal": 184.8,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 75,
+    "horodatage": 1794693000000,
+    "type": "cocktail",
+    "refId": 1,
+    "contenantId": null,
+    "volumeML": 160,
+    "quantite": 1,
+    "prixEuros": 9.5,
+    "soireeId": 15,
+    "snapshot": {
+     "nom": "Mojito",
+     "volumeML": 160,
+     "degre": 10,
+     "gAlcool": 12.8,
+     "kcal": 89.60000000000001,
+     "kcalEstimee": true,
+     "sucreG": 0,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 10,
+       "categorieId": 8,
+       "nom": "Havana Club 3 ans",
+       "volumeML": 40,
+       "degre": 40,
+       "gAlcool": 12.8,
+       "kcal": 89.60000000000001,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 15,
+       "categorieId": 15,
+       "nom": "Sirop de sucre de canne",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 16,
+       "categorieId": 15,
+       "nom": "Jus de citron vert",
+       "volumeML": 20,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": true,
+       "sucreG": null
+      },
+      {
+       "boissonId": 14,
+       "categorieId": 15,
+       "nom": "Eau gazeuse",
+       "volumeML": 80,
+       "degre": 0,
+       "gAlcool": 0,
+       "kcal": 0,
+       "kcalEstimee": false,
+       "sucreG": 0
+      }
+     ]
+    }
+   },
+   {
+    "id": 76,
+    "horodatage": 1794696300000,
+    "type": "boisson",
+    "refId": 3,
+    "contenantId": 2,
+    "volumeML": 250,
+    "quantite": 1,
+    "prixEuros": 4,
+    "soireeId": 15,
+    "snapshot": {
+     "nom": "1664",
+     "volumeML": 250,
+     "degre": 5.5,
+     "gAlcool": 11,
+     "kcal": 77,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 3,
+       "categorieId": 1,
+       "nom": "1664",
+       "volumeML": 250,
+       "degre": 5.5,
+       "gAlcool": 11,
+       "kcal": 77,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   },
+   {
+    "id": 77,
+    "horodatage": 1794699300000,
+    "type": "boisson",
+    "refId": 13,
+    "contenantId": 7,
+    "volumeML": 40,
+    "quantite": 1,
+    "prixEuros": 4,
+    "soireeId": 15,
+    "snapshot": {
+     "nom": "Jägermeister",
+     "volumeML": 40,
+     "degre": 35,
+     "gAlcool": 11.200000000000001,
+     "kcal": 78.4,
+     "kcalEstimee": true,
+     "sucreG": null,
+     "sucreIncomplet": true,
+     "composants": [
+      {
+       "boissonId": 13,
+       "categorieId": 12,
+       "nom": "Jägermeister",
+       "volumeML": 40,
+       "degre": 35,
+       "gAlcool": 11.200000000000001,
+       "kcal": 78.4,
+       "kcalEstimee": true,
+       "sucreG": null
+      }
+     ]
+    }
+   }
+  ],
+  "soirees": [
+   {
+    "id": 1,
+    "titre": "Afterwork",
+    "debut": 1788462360000,
+    "fin": 1788472500000,
+    "poidsKg": 67,
+    "ressenti": 5,
+    "repas": 9,
+    "hydratation": 5,
+    "fatigue": 8,
+    "gueuleDeBois": 5,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 2,
+    "titre": "Soirée jeux",
+    "debut": 1789151760000,
+    "fin": 1789168740000,
+    "poidsKg": 67,
+    "ressenti": 5,
+    "repas": 10,
+    "hydratation": 4,
+    "fatigue": 3,
+    "gueuleDeBois": 6,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 3,
+    "titre": "Bar à cocktails",
+    "debut": 1789241220000,
+    "fin": 1789255920000,
+    "poidsKg": 67,
+    "ressenti": 7,
+    "repas": 9,
+    "hydratation": 4,
+    "fatigue": 6,
+    "gueuleDeBois": 7,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 4,
+    "titre": "Verre en terrasse",
+    "debut": 1789845840000,
+    "fin": 1789862100000,
+    "poidsKg": 67,
+    "ressenti": 10,
+    "repas": 5,
+    "hydratation": 8,
+    "fatigue": 2,
+    "gueuleDeBois": 9,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 5,
+    "titre": "Afterwork",
+    "debut": 1790362440000,
+    "fin": 1790379300000,
+    "poidsKg": 67,
+    "ressenti": 9,
+    "repas": 10,
+    "hydratation": 3,
+    "fatigue": 5,
+    "gueuleDeBois": 10,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 6,
+    "titre": "Verre en terrasse",
+    "debut": 1790963820000,
+    "fin": 1790978460000,
+    "poidsKg": 67,
+    "ressenti": 4,
+    "repas": 6,
+    "hydratation": 4,
+    "fatigue": 4,
+    "gueuleDeBois": 3,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 7,
+    "titre": "Afterwork",
+    "debut": 1791052680000,
+    "fin": 1791073620000,
+    "poidsKg": 67,
+    "ressenti": 6,
+    "repas": 6,
+    "hydratation": 5,
+    "fatigue": 8,
+    "gueuleDeBois": 6,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 8,
+    "titre": "Crémaillère",
+    "debut": 1791654840000,
+    "fin": 1791664740000,
+    "poidsKg": 67,
+    "ressenti": 6,
+    "repas": 9,
+    "hydratation": 3,
+    "fatigue": 1,
+    "gueuleDeBois": 7,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 9,
+    "titre": "Match au pub",
+    "debut": 1792259640000,
+    "fin": 1792276200000,
+    "poidsKg": 67,
+    "ressenti": 6,
+    "repas": 8,
+    "hydratation": 3,
+    "fatigue": 3,
+    "gueuleDeBois": 6,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 10,
+    "titre": "Match au pub",
+    "debut": 1792777500000,
+    "fin": 1792788900000,
+    "poidsKg": 67,
+    "ressenti": 6,
+    "repas": 8,
+    "hydratation": 5,
+    "fatigue": 5,
+    "gueuleDeBois": 6,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 11,
+    "titre": "Soirée BDE",
+    "debut": 1792866060000,
+    "fin": 1792875180000,
+    "poidsKg": 67,
+    "ressenti": 7,
+    "repas": 9,
+    "hydratation": 3,
+    "fatigue": 6,
+    "gueuleDeBois": 9,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 12,
+    "titre": "Apéro coloc",
+    "debut": 1793390940000,
+    "fin": 1793400840000,
+    "poidsKg": 67,
+    "ressenti": 10,
+    "repas": 3,
+    "hydratation": 5,
+    "fatigue": 6,
+    "gueuleDeBois": 8,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 13,
+    "titre": "Rooftop",
+    "debut": 1794076320000,
+    "fin": 1794097740000,
+    "poidsKg": 67,
+    "ressenti": 5,
+    "repas": 9,
+    "hydratation": 9,
+    "fatigue": 8,
+    "gueuleDeBois": 5,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 14,
+    "titre": "Bar à cocktails",
+    "debut": 1794601380000,
+    "fin": 1794615960000,
+    "poidsKg": 67,
+    "ressenti": 1,
+    "repas": 8,
+    "hydratation": 3,
+    "fatigue": 3,
+    "gueuleDeBois": 3,
+    "gueuleDeBoisIgnoree": false,
+    "notes": ""
+   },
+   {
+    "id": 15,
+    "titre": "Anniv de Paul",
+    "debut": 1794686400000,
+    "fin": 1794702600000,
+    "poidsKg": 67,
+    "ressenti": 7,
+    "repas": 4,
+    "hydratation": 3,
+    "fatigue": 5,
+    "gueuleDeBois": null,
+    "gueuleDeBoisIgnoree": false,
+    "notes": "Pas dîné avant, arrivé directement après le sport."
+   }
+  ],
+  "objectifs": [
+   {
+    "id": 1,
+    "nom": "Max 40 verres par mois",
+    "unite": "verres",
+    "limite": 40,
+    "periode": "mois",
+    "nJours": null,
+    "filtreCategorie": null,
+    "seuilAlerte": 0.8,
+    "actif": true,
+    "creeLe": 1788719247309
+   },
+   {
+    "id": 2,
+    "nom": "Max 10 verres par semaine",
+    "unite": "verres",
+    "limite": 10,
+    "periode": "semaine",
+    "nJours": null,
+    "filtreCategorie": null,
+    "seuilAlerte": 0.8,
+    "actif": true,
+    "creeLe": 1788719247309
+   },
+   {
+    "id": 3,
+    "nom": "Max 90 € par mois",
+    "unite": "euros",
+    "limite": 90,
+    "periode": "mois",
+    "nJours": null,
+    "filtreCategorie": null,
+    "seuilAlerte": 0.8,
+    "actif": true,
+    "creeLe": 1788719247309
+   }
+  ],
+  "parametres": [
+   {
+    "cle": "poidsKg",
+    "valeur": 67
+   },
+   {
+    "cle": "sexe",
+    "valeur": "homme"
+   },
+   {
+    "cle": "gParVerre",
+    "valeur": 10
+   },
+   {
+    "cle": "r",
+    "valeur": 0.7
+   },
+   {
+    "cle": "beta",
+    "valeur": 0.15
+   },
+   {
+    "cle": "premierLancement",
+    "valeur": 1788114447309
+   },
+   {
+    "cle": "dernierExport",
+    "valeur": 1794252447309
+   },
+   {
+    "cle": "aideInstallationMasquee",
+    "valeur": true
+   }
+  ]
+ }
+}

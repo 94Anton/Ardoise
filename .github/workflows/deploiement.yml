@@ -1,0 +1,66 @@
+# Déploiement automatique sur GitHub Pages.
+#
+# À chaque « push » sur la branche main : installe les dépendances, lance les
+# tests, construit l'appli, puis publie le dossier dist/ sur GitHub Pages.
+#
+# Réglage à faire une seule fois dans le dépôt GitHub :
+#   Settings → Pages → Build and deployment → Source : « GitHub Actions ».
+
+name: Déploiement sur GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: # permet aussi de lancer le déploiement à la main (onglet Actions)
+
+# Droits nécessaires pour publier sur GitHub Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un seul déploiement à la fois ; un nouveau push annule celui en cours.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploiement:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publication.outputs.page_url }}
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v7
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: lts/*
+          cache: npm
+
+      - name: Installer les dépendances
+        run: npm ci
+
+      - name: Lancer les tests
+        run: npm test
+
+      - name: Construire l'appli
+        run: npm run build
+        env:
+          # Sur GitHub Pages, l'appli est servie sous /<nom-du-dépôt>/ :
+          # on transmet ce chemin à Vite (voir `base` dans vite.config.js).
+          BASE_PATH: /${{ github.event.repository.name }}/
+
+      - name: Préparer GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Envoyer le dossier dist/
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+      - name: Publier
+        id: publication
+        uses: actions/deploy-pages@v5
